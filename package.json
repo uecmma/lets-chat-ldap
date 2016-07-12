@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/sdelements/lets-chat-ldap",
   "dependencies": {
-    "ldapjs": "^0.7.1",
-    "passport-ldapauth": "^0.3.0"
+    "ldapjs": "^1.0.0",
+    "passport-ldapauth": "^0.5.0"
   },
   "peerDependencies": {
     "lodash": "*",
